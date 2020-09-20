@@ -199,5 +199,5 @@
 /obj/item/weapon/melee/energy/blade/dropped()
 	qdel(src)
 
-/obj/item/weapon/melee/energy/blade/proc/throw()
+/obj/item/weapon/melee/energy/blade/proc/throw2()
 	qdel(src)
